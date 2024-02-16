@@ -1,5 +1,0 @@
-name: p1
-channels:
-  - defaults
-dependencies:
-  - python
